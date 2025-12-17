@@ -1,6 +1,6 @@
 PRIVACY POLICY FOR NetCraft Manager
 
-Last Updated: 17 Dec 2025
+Last Updated: 18 Dec 2025
 
 1. Overview
 NetCraft Manager ("we," "our," or "the App") is a professional business-grade mobile application designed to provide authorised computer-club owners with secure, remote access to operational and financial data for their clubs ("the Service").
