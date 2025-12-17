@@ -1,9 +1,9 @@
-PRIVACY POLICY FOR NC+
+PRIVACY POLICY FOR NetCraft Manager
 
 Last Updated: 17 Dec 2025
 
 1. Overview
-NC+ ("we," "our," or "the App") is a professional business-grade mobile application designed to provide authorised computer-club owners with secure, remote access to operational and financial data for their clubs ("the Service").
+NetCraft Manager ("we," "our," or "the App") is a professional business-grade mobile application designed to provide authorised computer-club owners with secure, remote access to operational and financial data for their clubs ("the Service").
 
 This Privacy Policy explains how we collect, use, store, and protect your information when you use the App. By accessing or using the Service, you confirm that you have read and understood this Policy. If you do not agree to it, please discontinue using the App.
 
@@ -87,7 +87,7 @@ Your information may be processed on servers located outside your home country (
 For questions, concerns, or requests regarding your data, please contact us at: Email: ncplus.dev@gmail.com
 
 9. Children’s Privacy
-NC+ is a B2B (Business-to-Business) tool intended exclusively for adult users (18+). We do not knowingly collect data from children.
+NetCraft Manager is a B2B (Business-to-Business) tool intended exclusively for adult users (18+). We do not knowingly collect data from children.
 
 10. Policy Updates
 We may update this Privacy Policy to reflect technical or legal changes. The "Last Updated" date at the top of this document indicates the latest version.
