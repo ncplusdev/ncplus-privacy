@@ -1,11 +1,11 @@
-# NC+ Privacy Policy
+# NetCraft Manager Privacy Policy
 
-This repository contains the Privacy Policy for the NC+ mobile application.
+This repository contains the Privacy Policy for the NetCraft Manager mobile application.
 
 ## Quick Links
 - [Privacy Policy](PRIVACY.md)
 
-## About NC+
+## About NetCraft Manager
 NC+ is a professional business-grade mobile application for computer-club owners.
 
 ## App Features
