@@ -6,7 +6,7 @@ This repository contains the Privacy Policy for the NetCraft Manager mobile appl
 - [Privacy Policy](PRIVACY.md)
 
 ## About NetCraft Manager
-NC+ is a professional business-grade mobile application for computer-club owners.
+NetCraft Manager is a professional business-grade mobile application for computer-club owners.
 
 ## App Features
 - Real-time financial reports
