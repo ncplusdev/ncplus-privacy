@@ -1,12 +1,12 @@
-# NetCraft Manager Privacy Policy
+# NC Hub Manager Privacy Policy
 
-This repository contains the Privacy Policy for the NetCraft Manager mobile application.
+This repository contains the Privacy Policy for the NC Hub Manager mobile application.
 
 ## Quick Links
 - [Privacy Policy](PRIVACY.md)
 
 ## About NetCraft Manager
-NetCraft Manager is a professional business-grade mobile application for computer-club owners.
+NC Hub Manager is a professional business-grade mobile application for computer-club owners.
 
 ## App Features
 - Real-time financial reports
